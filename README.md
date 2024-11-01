@@ -49,3 +49,5 @@ Pada contoh output di sisi kanan gambar, jika gaji 5.000.000, status berkeluarga
 Input Data:
 
 Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika
+
+# Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
