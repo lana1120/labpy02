@@ -65,4 +65,5 @@ harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket
 
 # Latihan 3 Kasus 2 Program kalkulator sederhana
 
+![WhatsApp Image 2024-11-01 at 00 09 08](https://github.com/user-attachments/assets/4d286347-6416-4fd9-821b-a3ecb5f2cfe5)
 
