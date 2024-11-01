@@ -53,3 +53,16 @@ Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dar
 # Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
 ![Cuplikan layar 2024-11-01 164114](https://github.com/user-attachments/assets/4eb7beef-1664-4bcd-a52f-17f385b15dcb)
 
+![Cuplikan layar 2024-11-01 160955](https://github.com/user-attachments/assets/e3f760b1-1efe-4021-87b5-6afd38162d92)
+
+program ini dijalankan untuk menghitung total harga tiket bioskop. Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
+
+Berikut Adalah Langkah-langkah Program.
+
+Mendefinisikan harga tiket:
+
+harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk member didefinisikan sebesar 0.20 (20%)
+
+# Latihan 3 Kasus 2 Program kalkulator sederhana
+
+
