@@ -51,3 +51,5 @@ Input Data:
 Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika
 
 # Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
+![Cuplikan layar 2024-11-01 164114](https://github.com/user-attachments/assets/4eb7beef-1664-4bcd-a52f-17f385b15dcb)
+
