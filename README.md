@@ -20,8 +20,6 @@ Nilai huruf diberikan berdasarkan rentang nilai akhir: A jika lebih dari 80 B ji
 
 Input Data:
 
-Input Data:
-
 Kode ini meminta pengguna untuk memasukkan gaji, status keluarga, dan kepemilikan rumah. Variabel gaji menyimpan nilai gaji sebagai integer. Variabel berkeluarga akan bernilai True jika pengguna memasukkan "Y" (sudah berkeluarga) dan False jika "T". Variabel punya_rumah akan bernilai True jika pengguna memasukkan "Y" (punya rumah) dan False jika "T".
 
 Pengecekan Gaji:
@@ -46,3 +44,8 @@ Pada contoh output di sisi kanan gambar, jika gaji 5.000.000, status berkeluarga
 
 # Latihan 3 : Memggunkan kondisi OR Program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
 
+![Cuplikan layar 2024-11-01 160725](https://github.com/user-attachments/assets/b494e5a4-a7bb-4de9-be50-2ed99928f1bf)
+
+Input Data:
+
+Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika
